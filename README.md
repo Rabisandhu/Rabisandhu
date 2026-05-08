@@ -22,7 +22,7 @@ I'm documenting my AI engineering bootcamp — 12 days of hands-on projects from
 ### 📫 Connect with Me
 - 💼 LinkedIn: *(coming soon)*
 - 🐦 X / Twitter: *(coming soon)*
-- 📧 Email: *(your email here)*
+- 📧 Email: *rabisandhu845@gmail.com*
 
 ---
 
