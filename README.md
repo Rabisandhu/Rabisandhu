@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Rabi Sandhu 👋
 
-<!--
-**Rabisandhu/Rabisandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI Engineer in training** — learning to build real-world AI products.
 
-Here are some ideas to get you started:
+### 🔭 Currently Building
+- AI chatbots & intelligent agents
+- Prompt engineering systems
+- AI-powered SaaS applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript
+- **AI Tools:** OpenAI, Claude, Cursor AI, n8n
+- **Frameworks:** Next.js, Node.js
+- **Deployment:** Vercel, Supabase
+
+### 🌱 Currently Learning
+Prompt Engineering • AI Workflows • Cursor AI • APIs • AI Agents • SaaS Building
+
+### 📊 My Journey
+I'm documenting my AI engineering bootcamp — 12 days of hands-on projects from prompt engineering to deploying a full AI SaaS.
+
+### 📫 Connect with Me
+- 💼 LinkedIn: *(coming soon)*
+- 🐦 X / Twitter: *(coming soon)*
+- 📧 Email: *(your email here)*
+
+---
+
+⭐ *"Building in public, one project at a time."*
